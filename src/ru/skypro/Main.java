@@ -34,6 +34,9 @@ public class Main {
                 bukvaArr[i] = 'е';
             }
         }
+//        String fullNameE = new String(bukvaArr);  //создается новая строка
+//        System.out.println(fullNameE);
+
         fullName = new String(bukvaArr);
         System.out.println(fullName);
     }
